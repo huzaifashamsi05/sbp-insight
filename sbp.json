@@ -1,0 +1,84 @@
+{
+  "vision": "Credible, dynamic, and independent central bank, with a high calibre team, committed to improving the well-being of the people of Pakistan.",
+  "mission": "Maintain price and financial stability, with a technologically advanced financial system, for inclusive and sustainable economic development of Pakistan.",
+  "facts": [
+    ["Inaugurated", "1 July 1948 by Quaid-e-Azam"],
+    ["Legal basis", "SBP Act 1956 (amended 2022)"],
+    ["Governor", "Jameel Ahmad (since Aug 2022)"],
+    ["Inflation target", "5–7% (medium term)"]
+  ],
+  "values": [
+    ["Integrity", "Stand behind commitments, act impartially, protect confidential information.", "Ethics · trust"],
+    ["Accountability", "Own decisions and outcomes; welcome independent review and feedback.", "Responsibility · transparency"],
+    ["Innovation", "Challenge the status quo; use technology to serve stakeholders.", "Openness to change"],
+    ["Inclusion", "Value diverse skills; gender mainstreaming; equal-opportunity employer.", "Diversity management"],
+    ["People-Centric", "Fairness, compassion, work-life balance, health and safety.", "Employee well-being"],
+    ["Concern for Environment", "Save energy, cut carbon, move to a paperless office.", "Social responsibility"]
+  ],
+  "goals": [
+    "Maintain inflation within the medium-term target range",
+    "Enhance efficiency, effectiveness, fairness and stability of the financial system",
+    "Promote inclusive and sustainable access to financial services",
+    "Transform to a Shariah-compliant banking system",
+    "Build an innovative and inclusive digital financial services ecosystem",
+    "Transform SBP into a high-tech, people-centric organization"
+  ],
+  "themes": ["Strategic Communication", "Climate Change", "Technological Innovation", "Diversity & Inclusion", "Productivity & Competitiveness"],
+  "groups": {
+    "Monetary Policy & Research": ["Monetary Policy", "Economic Policy Review", "Research", "Statistics & Data Services"],
+    "Banking Policy & Regulation": ["Banking Policy & Regulations", "Banking Conduct Policy", "Exchange Policy", "Financial Institutions Resolution"],
+    "Banking Supervision": ["Banking Supervision 1", "Banking Supervision 2", "Banking Supervision 3", "Consumer Protection", "Financial Stability"],
+    "Financial Markets & Reserves": ["Domestic Market & Monetary Management", "International Markets & Investments"],
+    "Digital Financial Services": ["Digital Innovation & Settlements", "Payment Systems Policy & Oversight"],
+    "Financial Inclusion": ["Agriculture Credit & Financial Inclusion", "SME, Housing & Sustainable Finance"],
+    "Islamic Finance": ["Islamic Finance Policy", "Islamic Finance Development"],
+    "Finance & Risk Management": ["Finance", "Risk Management", "Treasury Operations", "Cyber Security"],
+    "Information Technology": ["IT Programs & Project Management", "IT Operations"],
+    "Human Resources & Services": ["Human Resource", "Museum & Art Gallery"],
+    "Governor's Office": ["External Communications", "Corporate Services & Strategic Planning", "Internal Audit & Compliance"],
+    "Stand-alone": ["Legal Services"]
+  },
+  "governors": [
+    ["Zahid Hussain", "1948-06-10", "1953-07-19"], ["Abdul Qadir", "1953-07-20", "1960-07-19"], ["Shujaat Ali Hasnie", "1960-07-20", "1967-07-19"],
+    ["Mahbubur Raschid", "1967-07-20", "1971-07-01"], ["Shahkurullah Durrani", "1971-07-01", "1971-12-22"], ["Ghulam Ishaq Khan", "1971-12-22", "1975-11-30"],
+    ["S. Osman Ali", "1975-12-01", "1978-07-01"], ["A. G. N. Kazi", "1978-07-15", "1986-07-09"], ["Vasim Aon Jafarey", "1986-07-10", "1988-08-16"],
+    ["Imtiaz Alam Hanfi", "1988-08-17", "1989-09-02"], ["Kassim Parekh", "1989-09-05", "1990-08-30"], ["Imtiaz Alam Hanfi (2nd)", "1990-09-01", "1993-06-30"],
+    ["Muhammad Yaqub", "1993-07-25", "1999-11-25"], ["Ishrat Husain", "1999-12-02", "2005-12-01"], ["Shamshad Akhtar", "2006-01-02", "2009-01-01"],
+    ["Salim Raza", "2009-02-01", "2010-06-02"], ["Shahid Hafeez Kardar", "2010-09-08", "2011-07-13"], ["Yaseen Anwar", "2011-10-19", "2014-01-31"],
+    ["Ashraf Mahmood Wathra", "2014-04-29", "2017-04-28"], ["Tariq Bajwa", "2017-07-07", "2019-05-03"], ["Reza Baqir", "2019-05-04", "2022-05-04"],
+    ["Murtaza Syed (acting)", "2022-05-06", "2022-08-18"], ["Jameel Ahmad", "2022-08-19", "2026-11-11"]
+  ],
+  "hofstede": {"Power Distance": 55, "Individualism": 14, "Masculinity": 50, "Uncertainty Avoidance": 70, "Long-term Orientation": 50, "Indulgence": 0},
+  "stakeholders": [
+    ["Ministry of Finance / Federal Govt", 8.6, 9.0, "Appoints top officials; fiscal policy affects inflation"],
+    ["IMF", 7.4, 8.4, "Programme conditions on rates, laws and independence"],
+    ["Parliament", 6.0, 7.3, "Passes and amends the SBP Act"],
+    ["Courts (FSC / Supreme Court)", 3.2, 7.6, "Riba ruling: Shariah-compliant banking by 2027"],
+    ["Commercial banks", 8.8, 6.0, "Regulated by SBP; directly hit by every decision"],
+    ["Rating agencies", 2.0, 6.1, "Judge credibility of policy"],
+    ["SBP employees", 7.0, 3.6, "Pay, culture, careers"],
+    ["General public / depositors", 8.0, 2.0, "Feel inflation and loan costs"],
+    ["Media & analysts", 6.2, 2.8, "Shape public opinion of SBP"],
+    ["Exporters & businesses", 3.4, 3.9, "Borrowing costs, exchange rate"]
+  ],
+  "cases": [
+    {"year": "2022", "title": "Autonomy law", "mode": "Compromising", "power": "Legitimate power shifts from government to SBP",
+     "text": "The SBP (Amendment) Act, passed in January 2022 during IMF talks, made price stability SBP's main goal, ended government borrowing from SBP and removed the Finance Secretary's vote on the Board. Critics called it a loss of economic sovereignty."},
+    {"year": "2022", "title": "Interest-free banking ruling", "mode": "Accommodating", "power": "External (legal) authority",
+     "text": "The Federal Shariat Court (April 2022) ordered a fully Shariah-compliant banking system by December 2027. SBP appealed, then withdrew the appeal in November 2022 after the government's decision."},
+    {"year": "2023", "title": "Emergency hike to 22%", "mode": "Accommodating", "power": "IMF and fiscal pressure",
+     "text": "An unscheduled MPC meeting on 26 June 2023 raised the policy rate to a record 22%, citing new budget taxes; analysts linked it to completing the IMF programme."},
+    {"year": "2025", "title": "IMF on SBP's board", "mode": "Competing", "power": "Struggle over independence",
+     "text": "An IMF governance report asked Pakistan to remove the Finance Secretary from SBP's board entirely and to fill vacant deputy-governor posts quickly."},
+    {"year": "2024–26", "title": "Dual-nationality dispute", "mode": "Avoiding", "power": "Politics of appointments",
+     "text": "The 2022 law barred dual nationals from top SBP posts. A deputy-governor post stayed vacant about 21 months; the cabinet refused to relax the rule and Muhammad Ali Malik was appointed in August 2026."},
+    {"year": "2026", "title": "Executive pay up 94%", "mode": "—", "power": "Legitimacy and perceived fairness",
+     "text": "SBP's FY2025-26 financial statements showed the combined pay and benefits of the Governor and Deputy Governors rising from Rs94m to Rs183m, attracting media criticism."}
+  ],
+  "swot": {
+    "Strengths": ["Strong legal authority and clear mandate", "Expert, highly qualified staff", "Clear Vision 2028 strategy", "Collective MPC decisions", "More transparent communication"],
+    "Weaknesses": ["Highly centralized and formal", "Technical language is hard for the public", "Leadership vacancies from appointment disputes", "Departmental silos"],
+    "Opportunities": ["Digital payments (Raast) and fintech", "Islamic banking transition by 2027", "More women in finance (Banking on Equality)", "Plain-language communication"],
+    "Threats": ["Political and IMF pressure on independence", "Inflation and external shocks", "Criticism over pay and governance", "Cyber-security risks"]
+  }
+}
